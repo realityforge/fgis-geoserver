@@ -1,0 +1,20 @@
+<dataStore>
+  <id>DataStoreInfoImpl--6f9ab117:13b7c2351ed:-7feb</id>
+  <name>GeoServer</name>
+  <type>PostGIS (JNDI)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--6f9ab117:13b7c2351ed:-7fef</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">fgis</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="jndiReferenceName">jdbc/GeoServer</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="namespace">test</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
