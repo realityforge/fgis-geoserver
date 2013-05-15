@@ -2,3 +2,7 @@
 /*.iml
 /*.ipr
 /*.iws
+# Cache dir
+/gwc
+# Log dir
+/logs
